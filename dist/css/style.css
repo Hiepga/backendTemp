@@ -1,0 +1,39 @@
+
+/*-----------  Login page and Register page style  --------------*/
+.login-page, .register-page{
+	background: url(../../img/1.jpg) no-repeat top center #2d494d;
+}
+
+.login-page .bg_video, .register-page .bg_video{
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0 auto;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.login-page .login-box .login-logo a, .register-page .register-box .register-logo a{
+	color: #fff;
+}
+
+.login-page .login-box .login-box-body, .register-page .register-box .login-box-body{
+	box-shadow: 0 1px 40px 0 rgba(0, 0, 0, 0.3);
+}
+/*-----------  End style  --------------*/
+
+
+/*-----------  Register page style  --------------*/
+
+/*-----------  End style  --------------*/
+
+
+.table_data .btn-group{
+    width: 100%;
+}
+
+.table_data .btn-group .btn_txt{
+    width: 70%;
+}
